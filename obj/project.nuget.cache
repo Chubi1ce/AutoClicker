@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lNnwJPZb6tSzGEFcMGrrt43x3hxnE2AJAYb/HqNJy8kYdsmrb/XKzetGzlt4sEN9tuTayrl/BC8QqAAhGqxchA==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\AutoClicker\\AutoClicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\СавенковСС\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\СавенковСС\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
